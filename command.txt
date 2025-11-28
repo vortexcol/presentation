@@ -1,0 +1,1 @@
+run app and instrumentation with node --import ./instrumentation.mjs app.js
